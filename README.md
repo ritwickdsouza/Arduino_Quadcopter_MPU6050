@@ -1,6 +1,6 @@
-Volant-ArduinoQuadcopter
+##Volant-ArduinoQuadcopter
 
-#
+#Description
 Volant is a flight controller for a quadcopter which is completely designed on a Arduino Uno and MPU-6050 (a MEMS 6 Axis Gyroscope and Accelerometer). The flight controller uses 4 channels of the reciever/transmitter to control the Roll, Pitch and Yaw of the quadcopter.
 
 #Parts Used
