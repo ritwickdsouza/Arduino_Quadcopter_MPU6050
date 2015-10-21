@@ -2,7 +2,7 @@
 
 ##Description
 Volant is a flight controller for a quadcopter which is completely designed on a Arduino Uno and MPU-6050 (a MEMS 6 Axis Gyroscope and Accelerometer). The flight controller uses 4 channels of the reciever/transmitter to control the Roll, Pitch and Yaw of the quadcopter.
-The flightcontroller code by Joop Brokking was modified to build this flight controller.
+The flight controller code by Joop Brokking was modified to build this flight controller.
 (https://www.youtube.com/playlist?list=PL0K4VDicBzsibZqfa42DVxC8CGCMB7G2G)
 
 ##Parts Used
